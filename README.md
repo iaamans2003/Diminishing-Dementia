@@ -11,7 +11,7 @@ Theophilus Thistle aims visually impaired and is based on aphasis.
 Technology we have used:
 
 Programing language we have used - java script,html,css.
-Chat bot
+,Chat bot
 Hosting- Netlify
 
 
