@@ -1,4 +1,4 @@
-# Diminishing-Dementia 
+# Diminishing-Dementia (Tech Geeks)
 
 Website link :- https://demidementia.netlify.app/
 
